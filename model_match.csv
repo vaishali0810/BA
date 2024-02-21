@@ -1,0 +1,67 @@
+"variable","mean_coeff","mean_p","T_stderr"
+"Age",-0.001,0.946,NA
+"Education",0.144,0.246,0.552
+"EmploymentStatusOther",18.464,0.999,22562.64
+"EmploymentStatusapprentice",38.183,0.999,28704.802
+"EmploymentStatusin domestic work",18.416,0.999,22562.64
+"EmploymentStatusin education",16.589,0.999,22562.64
+"EmploymentStatusin paid work",17.374,0.999,22562.64
+"EmploymentStatuspermanently sick",-5.814,1,25476.147
+"EmploymentStatusretired",18.795,0.999,22562.64
+"EmploymentStatusunemployed and looking for a job",16.058,0.999,22562.64
+"IncomeNA",23.19,0.998,11831.94
+"Incomeabove average",1.316,0.086,1.795
+"Incomehigh",1.796,0.015,2.034
+"Incomehighest",15.621,0.995,2292.448
+"Incomemedium",1.193,0.082,1.69
+"Incomevery high",1.024,0.197,1.636
+"Livinga farm in the country",-19.532,0.999,10753.219
+"Livingcountry village",0.688,0.334,1.372
+"Livingthe suburbs",-0.422,0.78,1.203
+"Livingtown",-0.327,0.706,0.313
+"ReligionBuddhist",-27.242,0.993,3233.495
+"ReligionCatholic",60.139,0.998,27143.01
+"ReligionMuslim",-0.474,0.319,NA
+"ReligionNo religion",-22.506,1,57558.475
+"ReligionOther Christian",42.334,0.998,20063.731
+"ReligionSikh",-20.917,0.999,13701.778
+"Sexfemale",-0.004,0.991,0.346
+"StateArunachal Pradesh",-15.313,1,43929.315
+"StateAssam",-40.7,0.992,3959.382
+"StateBihar",1.23,0.15,1.787
+"StateChhattisgarh",-11.019,0.999,14808.793
+"StateGujarat",-21.333,0.998,10880.36
+"StateHaryana",-20.849,0.999,16021.424
+"StateHimachal Pradesh",-40.632,0.992,3959.382
+"StateJharkhand",1.472,0.174,2.029
+"StateKarnataka",-19.132,0.999,17373.716
+"StateKerala",-21.92,0.999,13470.299
+"StateMadhya Pradesh",2.205,0.348,3.151
+"StateMaharashtra",0.041,0.98,1.67
+"StateManipur",-0.106,0.952,1.717
+"StateMeghalaya",-42.317,0.998,20063.727
+"StateMizoram",21.779,1,35120.274
+"StateNagaland",-20.426,0.999,13651.862
+"StateOdisha",1.4,0.173,1.963
+"StatePuducherry",0.579,0.709,1.887
+"StatePunjab",-18.999,0.999,15514.773
+"StateRajasthan",1.476,0.254,2.151
+"StateSikkim",20.489,1,36239.673
+"StateTamil Nadu",0.59,0.559,1.482
+"StateTelangana",2.652,0.112,2.845
+"StateTripura",-16.594,0.999,23974.254
+"StateUttar Pradesh",1.13,0.181,1.724
+"StateUttarakhand",-23.716,0.999,19062.131
+"StateWest Bengal",2.182,0.024,2.301
+"VoteCongress",-17.68,0.995,2665.197
+"VoteLeft front Parties/Communist Party",-58.496,0.999,80480.186
+"VoteOther party",-64.357,0.989,4776.972
+"VoteRegional Party",-60.417,0.99,4776.973
+"VoteThird Front",-62.042,0.99,4776.973
+"Workcurrently",-0.544,0.642,0.527
+"Workformerly",-0.627,0.372,NA
+"intercept",41.353,0.999,22714.858
+"trustlittle trust",0.463,0.534,1.216
+"trustmoderate trust",0.164,0.794,0.852
+"trustno trust",-0.947,0.262,NA
+"trusttrust",0.715,0.268,1.359

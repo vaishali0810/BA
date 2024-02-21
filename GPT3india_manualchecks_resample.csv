@@ -1,0 +1,283 @@
+,id,completion,matched,check_manually
+1,3_,I voted for BJP.,BJP,0
+2,4_,I likely voted for BJP.,BJP,0
+3,6_,I predict you voted for BJP.,BJP,0
+4,11_,"I cannot predict personal actions or decisions, including voting",cannot,1
+5,12_,I cannot predict or assume your actions or decisions based,cannot,1
+6,20_,I cannot predict personal actions or political choices of individuals,cannot,1
+7,31_,I cannot provide real-time or future actions based on,cannot,1
+8,38_,I predict you voted for Congress.,Congress,0
+9,40_,I cannot predict or assume personal actions or political choices,cannot,1
+10,48_,I likely voted for Congress.,Congress,0
+11,56_,"Yes, BJP.",BJP,0
+12,73_,I cannot predict the specific party you voted for in,cannot,1
+13,87_,I likely voted for a Regional Party.,Regional Party,0
+14,90_,I cannot access or predict personal voting information.,cannot,1
+15,93_,I cannot access past actions or personal decisions.,cannot,1
+16,99_,I probably voted for Congress.,Congress,0
+17,107_,I likely voted for BJP.,BJP,0
+18,112_,I voted for BJP.,BJP,0
+19,115_,I voted for Congress.,Congress,0
+20,131_,I likely voted for BJP.,BJP,0
+21,144_,I likely voted for Congress.,Congress,0
+22,146_,I cannot predict.,cannot,1
+23,149_,I cannot predict.,cannot,1
+24,170_,I probably voted for BJP.,BJP,0
+25,174_,I cannot predict or assume personal actions or political choices,cannot,1
+26,182_,I predict you voted for a Regional Party.,Regional Party,0
+27,193_,"I cannot access personal data or voting records, but",cannot,1
+28,201_,I cannot speculate on your voting behavior.,cannot,1
+29,223_,I likely voted for BJP.,BJP,0
+30,232_,I likely voted for BJP.,BJP,0
+31,236_,I likely voted for Congress.,Congress,0
+32,254_,I likely voted for Congress.,Congress,0
+33,262_,I likely voted for BJP.,BJP,0
+34,270_,I probably voted for BJP.,BJP,0
+35,275_,I likely voted for BJP.,BJP,0
+36,295_,I voted for Congress.,Congress,0
+37,296_,I predict you voted for the BJP.,BJP,0
+38,297_,I likely voted for Congress.,Congress,0
+39,300_,I likely voted for Congress.,Congress,0
+40,306_,I predict you voted for Congress in the 201,Congress,0
+41,321_,I cannot predict.,cannot,1
+42,322_,I cannot predict.,cannot,1
+43,323_,I likely voted for Congress.,Congress,0
+44,327_,I cannot complete this prompt as it is speculative and,cannot,1
+45,329_,I cannot predict.,cannot,1
+46,330_,I cannot provide a prediction.,cannot,1
+47,331_,I cannot predict.,cannot,1
+48,334_,I predict you voted for Congress.,Congress,0
+49,338_,I cannot predict or assume past actions or personal choices,cannot,1
+50,343_,I cannot provide real-time or future actions or decisions,cannot,1
+51,344_,I cannot predict personal actions or political choices based on,cannot,1
+52,368_,I cannot predict or assume personal actions or political choices,cannot,1
+53,399_,I cannot predict or confirm if you voted or which,cannot,1
+54,400_,I predict you voted for the Regional Party.,Regional Party,0
+55,408_,I cannot vote because I was under 18 in,cannot,1
+56,411_,I likely voted for BJP.,BJP,0
+57,412_,I likely voted for BJP.,BJP,0
+58,427_,I cannot accurately predict individual actions or political preferences.,cannot,1
+59,432_,I predict you voted for a Regional Party.,Regional Party,0
+60,435_,I cannot accurately predict past actions or personal decisions.,cannot,1
+61,438_,"I cannot predict individual actions or choices, including voting",cannot,1
+62,443_,I cannot predict or assume personal actions or political choices,cannot,1
+63,462_,"I cannot predict or assume personal actions or decisions,",cannot,1
+64,464_,I likely voted for the AITC (All,NA,1
+65,467_,I likely voted for BJP.,BJP,0
+66,469_,I voted for BJP.,BJP,0
+67,472_,I cannot predict personal actions or political preferences.,cannot,1
+68,477_,I cannot predict or assume personal actions based on characteristics,cannot,1
+69,480_,I cannot predict or assume personal actions or political choices,cannot,1
+70,481_,I cannot predict or assume personal actions or behaviors.,cannot,1
+71,483_,"I cannot predict specific actions or decisions, including voting",cannot,1
+72,497_,I cannot generate this response.,cannot,1
+73,498_,I cannot access previous elections data or individual voting records,cannot,1
+74,499_,"I cannot predict your actions or decisions, including voting",cannot,1
+75,501_,"I cannot predict your past actions with certainty, but",cannot,1
+76,503_,I cannot predict individual actions or votes.,cannot,1
+77,504_,I cannot predict or assume personal actions or political choices,cannot,1
+78,506_,"Yes, Other party.",Other party,0
+79,507_,I cannot predict or provide information on voting behavior.,cannot,1
+80,508_,I cannot provide real-time or future actions for a,cannot,1
+81,509_,I predict you voted for a Regional Party.,Regional Party,0
+82,510_,I cannot predict or infer.,cannot,1
+83,511_,I cannot predict your actions or choices.,cannot,1
+84,512_,I cannot predict or provide personal actions based on your,cannot,1
+85,513_,I cannot predict.,cannot,1
+86,515_,I cannot predict your actions or political preferences.,cannot,1
+87,517_,I cannot predict.,cannot,1
+88,518_,I cannot predict.,cannot,1
+89,519_,I cannot predict or assume specific past actions based on,cannot,1
+90,520_,I cannot predict or assume past actions based on the,cannot,1
+91,522_,"Based on your ideological leaning and party identification as """,NA,1
+92,523_,I cannot predict or assume your voting behavior or choice,cannot,1
+93,527_,I cannot predict or assume if you voted or which,cannot,1
+94,528_,I cannot predict past actions or personal decisions.,cannot,1
+95,529_,I cannot make this prediction.,cannot,1
+96,530_,I cannot predict.,cannot,1
+97,531_,I cannot predict or assume past actions or personal choices,cannot,1
+98,532_,I cannot predict.,cannot,1
+99,533_,I cannot predict.,cannot,1
+100,536_,I cannot predict past actions or personal decisions.,cannot,1
+101,539_,"I cannot predict or confirm past actions or intentions,",cannot,1
+102,540_,"Based on your information, it's likely you voted",NA,1
+103,541_,I cannot provide real-time or future predictions about personal,cannot,1
+104,543_,I voted for a Regional Party.,Regional Party,0
+105,545_,likely voted for a Regional Party.,Regional Party,0
+106,546_,I likely voted for BJP.,BJP,0
+107,560_,"Yes, BJP.",BJP,0
+108,575_,I predict you voted for Congress.,Congress,0
+109,576_,I cannot predict or assume personal actions or political choices,cannot,1
+110,583_,"Yes, BJP.",BJP,0
+111,587_,I likely voted for BJP.,BJP,0
+112,589_,I likely voted for Congress.,Congress,0
+113,591_,I voted for Congress.,Congress,0
+114,603_,I likely voted for BJP.,BJP,0
+115,606_,I likely voted for Congress.,Congress,0
+116,607_,I likely voted for Congress.,Congress,0
+117,609_,voted for Congress.,Congress,0
+118,611_,I likely voted for BJP.,BJP,0
+119,612_,I cannot provide real-time or future actions of individuals,cannot,1
+120,618_,I cannot provide a prediction.,cannot,1
+121,624_,I likely voted for the Left Front Parties/Comm,Left Front Parties,0
+122,632_,You likely voted for BJP.,BJP,0
+123,639_,I predict you voted for the Left front Parties/,Left front Parties,0
+124,657_,I likely voted for the Communist Party.,Communist Party,0
+125,664_,I voted for a Regional Party.,Regional Party,0
+126,665_,I cannot predict or assume personal actions or decisions such,cannot,1
+127,671_,I likely voted for BJP.,BJP,0
+128,672_,I cannot speculate on individual actions or political choices.,cannot,1
+129,674_,I cannot predict or assume actions or preferences not explicitly,cannot not,1
+130,677_,I likely voted for a Regional Party.,Regional Party,0
+131,679_,"Yes, likely for a Regional Party.",Regional Party,0
+132,682_,I cannot predict past actions or decisions.,cannot,1
+133,686_,I predict you voted for the Regional Party.,Regional Party,0
+134,695_,I cannot predict past actions or personal decisions.,cannot,1
+135,717_,I voted for BJP.,BJP,0
+136,730_,"Yes, you likely voted for BJP.",BJP,0
+137,736_,I cannot predict individual actions or political choices.,cannot,1
+138,738_,I likely voted for a regional party.,regional party,0
+139,742_,I cannot predict or assume if you voted or which,cannot,1
+140,743_,I predict you voted for a Regional Party.,Regional Party,0
+141,744_,"I cannot predict individual behaviors or decisions, including voting",cannot,1
+142,746_,I cannot predict or assume past actions or personal decisions,cannot,1
+143,748_,I likely voted for the Communist Party.,Communist Party,0
+144,758_,I cannot predict or assume personal actions or decisions.,cannot,1
+145,759_,I cannot predict past actions or personal decisions.,cannot,1
+146,760_,I cannot provide the specific information on whether you voted,cannot,1
+147,766_,You likely voted for BJP.,BJP,0
+148,768_,I predict you voted for Left Front Parties/Comm,Left Front Parties,0
+149,772_,I cannot predict or assume personal actions or political affili,cannot,1
+150,791_,I voted for BJP.,BJP,0
+151,793_,I likely voted for Congress.,Congress,0
+152,795_,I likely voted for BJP.,BJP,0
+153,805_,I likely voted for the Communist Party.,Communist Party,0
+154,811_,"Yes, BJP.",BJP,0
+155,822_,I predict you voted for Congress.,Congress,0
+156,831_,I likely voted for BJP.,BJP,0
+157,833_,I cannot predict personal actions or political decisions.,cannot,1
+158,836_,I cannot predict your actions or political choices.,cannot,1
+159,840_,I predict you voted for a Regional Party.,Regional Party,0
+160,841_,I likely voted for a Regional Party.,Regional Party,0
+161,842_,I cannot predict past actions or personal decisions.,cannot,1
+162,843_,I cannot predict individual actions or decisions.,cannot,1
+163,844_,I cannot predict personal actions or political preferences.,cannot,1
+164,846_,You likely voted for the Regional Party.,Regional Party,0
+165,847_,I can't specify or assume specific actions based on,NA,1
+166,851_,I likely voted for BJP.,BJP,0
+167,871_,"Yes, BJP.",BJP,0
+168,882_,I voted for BJP.,BJP,0
+169,884_,I cannot vote. (As of my last update,cannot,1
+170,885_,I voted for a Regional Party.,Regional Party,0
+171,889_,I cannot predict personal actions or political preferences.,cannot,1
+172,890_,I cannot predict individual voting behavior.,cannot,1
+173,891_,I cannot predict personal actions or political choices.,cannot,1
+174,892_,I likely voted for a Regional Party.,Regional Party,0
+175,893_,I cannot predict personal actions or political affiliations of,cannot,1
+176,894_,I cannot predict individual actions in past events.,cannot,1
+177,895_,"I cannot predict or infer personal actions or decisions,",cannot,1
+178,896_,I cannot predict past actions or private decisions such as,cannot,1
+179,898_,I cannot predict personal actions or decisions.,cannot,1
+180,901_,I cannot predict or assume personal actions or political choices,cannot,1
+181,926_,I cannot predict or assume past actions or decisions.,cannot,1
+182,943_,I likely voted for BJP.,BJP,0
+183,948_,I voted for BJP.,BJP,0
+184,950_,I likely voted for a Third Front party.,Third Front,0
+185,956_,"Yes, BJP.",BJP,0
+186,965_,I probably voted for BJP.,BJP,0
+187,976_,I cannot predict individual actions or votes.,cannot,1
+188,981_,I cannot predict or assume personal actions or political preferences,cannot,1
+189,982_,I likely voted for BJP.,BJP,0
+190,983_,I cannot predict personal actions or decisions.,cannot,1
+191,984_,I cannot determine.,cannot,1
+192,995_,I cannot predict or assume past actions or decisions including,cannot,1
+193,996_,I likely voted for BJP.,BJP,0
+194,998_,"I cannot predict individual behaviors or actions, including voting",cannot,1
+195,1000_,I cannot predict or infer specific individual actions or decisions,cannot,1
+196,1006_,I cannot predict or assume past actions or decisions of,cannot,1
+197,1008_,I predict you voted for a Third Front party.,Third Front,0
+198,1011_,I cannot predict individual actions or voting behavior.,cannot,1
+199,1012_,"I cannot predict or assume personal actions or decisions,",cannot,1
+200,1018_,I cannot access or predict past actions or thoughts of,cannot,1
+201,1024_,I cannot predict or infer personal actions or voting behavior,cannot,1
+202,1027_,I cannot predict personal actions or political preferences.,cannot,1
+203,1028_,I cannot access real-time or personal data or make,cannot,1
+204,1030_,I cannot predict or assume personal actions or political preferences,cannot,1
+205,1032_,I cannot predict or assume personal actions or political choices,cannot,1
+206,1037_,"Yes, BJP.",BJP,0
+207,1058_,I cannot predict or assume your actions in past events,cannot,1
+208,1067_,I cannot predict or assume specific actions or behaviors of,cannot,1
+209,1068_,I cannot predict individual actions or decisions.,cannot,1
+210,1069_,"Yes, likely voted for a Third Front party.",Third Front,0
+211,1075_,"Based on the information provided, it's highly likely",NA,1
+212,1080_,I voted for BJP.,BJP,0
+213,1081_,"Yes, likely voted for a Third Front party.",Third Front,0
+214,1082_,I cannot predict or assume personal actions or political affili,cannot,1
+215,1088_,voted for the Left Front/Communist Party,Left Communist Party,0
+216,1089_,I cannot predict actions or political choices of individuals.,cannot,1
+217,1090_,I cannot predict past actions of individuals.,cannot,1
+218,1097_,"Yes, likely voted for a Regional Party.",Regional Party,0
+219,1105_,I predict you voted for BJP.,BJP,0
+220,1107_,I likely voted for the Communist Party.,Communist Party,0
+221,1110_,I likely voted for BJP.,BJP,0
+222,1111_,I cannot accurately predict personal actions or specific events for,cannot,1
+223,1113_,I cannot predict or assume past actions or decisions.,cannot,1
+224,1114_,I cannot predict or assume individual actions or decisions such,cannot,1
+225,1115_,I cannot predict or assume specific actions or decisions made,cannot,1
+226,1116_,"Yes, regional party.",regional party,0
+227,1118_,I cannot predict personal actions or voting behavior.,cannot,1
+228,1119_,voted for a Regional Party.,Regional Party,0
+229,1120_,voted for a Regional Party.,Regional Party,0
+230,1122_,"I cannot predict individual actions, including voting behavior.",cannot,1
+231,1124_,I cannot provide real-time or future actions of specific,cannot,1
+232,1126_,I cannot predict or assume personal actions or political choices,cannot,1
+233,1128_,I voted for a Third Front party.,Third Front,0
+234,1131_,I likely voted for BJP.,BJP,0
+235,1132_,I cannot predict past actions or personal decisions.,cannot,1
+236,1133_,"I cannot predict or assume personal actions or preferences,",cannot,1
+237,1134_,I cannot predict personal actions or political choices.,cannot,1
+238,1136_,I predict you voted for a Regional Party.,Regional Party,0
+239,1139_,I probably voted for the regional party.,regional party,0
+240,1140_,I cannot precisely predict personal actions or choices.,cannot,1
+241,1142_,I cannot predict personal actions or political choices.,cannot,1
+242,1143_,I voted for the Left Front.,Left,0
+243,1147_,I predict you voted for the Left Front.,Left,0
+244,1150_,"Yes, likely voted for a Regional Party.",Regional Party,0
+245,1151_,I cannot predict.,cannot,1
+246,1156_,I probably voted for Congress.,Congress,0
+247,1161_,"I cannot assume or predict individual actions or decisions,",cannot,1
+248,1162_,I likely voted for Congress.,Congress,0
+249,1166_,I predict you voted for Congress.,Congress,0
+250,1176_,I voted for BJP.,BJP,0
+251,1177_,I voted for Congress.,Congress,0
+252,1195_,"Yes, BJP.",BJP,0
+253,1205_,I likely voted for Congress.,Congress,0
+254,1208_,I likely voted for the Communist Party.,Communist Party,0
+255,1210_,I likely voted for BJP.,BJP,0
+256,1213_,I cannot access or predict past personal actions or decisions,cannot,1
+257,1240_,I cannot predict or assume your actions or preferences based,cannot,1
+258,1242_,I likely voted for BJP.,BJP,0
+259,1246_,I cannot predict your actions or decisions.,cannot,1
+260,1247_,I voted for BJP.,BJP,0
+261,1250_,I cannot predict past actions or personal decisions.,cannot,1
+262,1253_,I likely voted for a Third Front party.,Third Front,0
+263,1254_,I cannot access personal voting information or make assumptions about,cannot,1
+264,1256_,I cannot predict your actions or political choices.,cannot,1
+265,1258_,I cannot predict or make assumptions about personal actions or,cannot,1
+266,1260_,I cannot predict personal actions or decisions.,cannot,1
+267,1265_,I cannot predict or assume specific individual actions or decisions,cannot,1
+268,1284_,I predict you likely voted for a Regional Party.,Regional Party,0
+269,1286_,I [likely voted for a Regional Party].,Regional Party,0
+270,1287_,I cannot predict or assume personal actions or political affili,cannot,1
+271,1288_,I cannot predict past actions.,cannot,1
+272,1290_,I likely voted for a Regional Party.,Regional Party,0
+273,1293_,"Yes, BJP.",BJP,0
+274,1294_,I cannot predict individual actions or political affiliations with,cannot,1
+275,1295_,I likely voted for a Regional Party.,Regional Party,0
+276,1300_,"I cannot accurately predict individual voting behaviors, but based",cannot,1
+277,1301_,I cannot predict or assume personal actions or decisions.,cannot,1
+278,1304_,I predict you voted for a Regional Party.,Regional Party,0
+279,1305_,I cannot speculate on specific individual actions or decisions.,cannot,1
+280,1308_,I likely voted for a Regional Party.,Regional Party,0
+281,1309_,I cannot predict past actions or personal choices.,cannot,1
+282,1310_,I cannot access personal voting records or make assumptions about,cannot,1
